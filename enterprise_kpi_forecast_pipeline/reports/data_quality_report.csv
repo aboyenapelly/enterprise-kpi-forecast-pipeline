@@ -1,0 +1,4 @@
+table,check,issue_count
+sales_orders,missing_customer_id,35
+sales_orders,negative_quantity,25
+product_master,missing_category,10

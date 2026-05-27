@@ -1,0 +1,61 @@
+customer_id,region,segment
+C0001,Midwest,Mid-Market
+C0002,South,Mid-Market
+C0003,South,Small Business
+C0004,West,Small Business
+C0005,West,Enterprise
+C0006,Midwest,Small Business
+C0007,West,Mid-Market
+C0008,Northeast,Mid-Market
+C0009,West,Mid-Market
+C0010,Northeast,Small Business
+C0011,Midwest,Mid-Market
+C0012,Midwest,Mid-Market
+C0013,Midwest,Mid-Market
+C0014,Midwest,Enterprise
+C0015,Midwest,Enterprise
+C0016,Northeast,Enterprise
+C0017,Northeast,Enterprise
+C0018,Midwest,Enterprise
+C0019,West,Enterprise
+C0020,South,Mid-Market
+C0021,Midwest,Enterprise
+C0022,West,Mid-Market
+C0023,South,Small Business
+C0024,Midwest,Mid-Market
+C0025,Midwest,Mid-Market
+C0026,Northeast,Enterprise
+C0027,South,Enterprise
+C0028,South,Enterprise
+C0029,West,Enterprise
+C0030,Northeast,Mid-Market
+C0031,Northeast,Enterprise
+C0032,Northeast,Enterprise
+C0033,Northeast,Enterprise
+C0034,South,Mid-Market
+C0035,South,Enterprise
+C0036,Midwest,Mid-Market
+C0037,Midwest,Mid-Market
+C0038,Northeast,Mid-Market
+C0039,Northeast,Enterprise
+C0040,Northeast,Small Business
+C0041,Midwest,Mid-Market
+C0042,West,Enterprise
+C0043,West,Small Business
+C0044,Midwest,Small Business
+C0045,Midwest,Enterprise
+C0046,Midwest,Mid-Market
+C0047,Midwest,Small Business
+C0048,Midwest,Small Business
+C0049,Midwest,Enterprise
+C0050,Northeast,Enterprise
+C0051,Northeast,Mid-Market
+C0052,Northeast,Mid-Market
+C0053,Northeast,Mid-Market
+C0054,Midwest,Mid-Market
+C0055,West,Mid-Market
+C0056,South,Small Business
+C0057,Midwest,Enterprise
+C0058,South,Mid-Market
+C0059,West,Small Business
+C0060,Northeast,Small Business
